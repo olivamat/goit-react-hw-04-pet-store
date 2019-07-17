@@ -21,7 +21,7 @@
     "lint:fix": "eslint src/**/*.js --fix",
     "lint:format": "prettier src/**/*.{js,css,json} --write"
   },
-  "homepage": "https://olivamat.github.io/goit-react-hw-03-pet-store",
+  "homepage": "https://olivamat.github.io/goit-react-hw-04-pet-store",
   "eslintConfig": {
     "extends": "react-app"
   },
