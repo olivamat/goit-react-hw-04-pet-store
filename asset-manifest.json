@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/goit-react-hw-04-pet-store/static/css/main.e0b8a56d.chunk.css",
-    "main.js": "/goit-react-hw-04-pet-store/static/js/main.9913d233.chunk.js",
-    "main.js.map": "/goit-react-hw-04-pet-store/static/js/main.9913d233.chunk.js.map",
+    "main.js": "/goit-react-hw-04-pet-store/static/js/main.5201f60a.chunk.js",
+    "main.js.map": "/goit-react-hw-04-pet-store/static/js/main.5201f60a.chunk.js.map",
     "runtime~main.js": "/goit-react-hw-04-pet-store/static/js/runtime~main.081fabb4.js",
     "runtime~main.js.map": "/goit-react-hw-04-pet-store/static/js/runtime~main.081fabb4.js.map",
     "static/js/2.bb8fb46d.chunk.js": "/goit-react-hw-04-pet-store/static/js/2.bb8fb46d.chunk.js",
     "static/js/2.bb8fb46d.chunk.js.map": "/goit-react-hw-04-pet-store/static/js/2.bb8fb46d.chunk.js.map",
     "index.html": "/goit-react-hw-04-pet-store/index.html",
-    "precache-manifest.fa208f4b7f75f45426c419178f6bbf3d.js": "/goit-react-hw-04-pet-store/precache-manifest.fa208f4b7f75f45426c419178f6bbf3d.js",
+    "precache-manifest.fbe3e2aba94acd3e8e2423db5509db6b.js": "/goit-react-hw-04-pet-store/precache-manifest.fbe3e2aba94acd3e8e2423db5509db6b.js",
     "service-worker.js": "/goit-react-hw-04-pet-store/service-worker.js",
     "static/css/main.e0b8a56d.chunk.css.map": "/goit-react-hw-04-pet-store/static/css/main.e0b8a56d.chunk.css.map"
   }
